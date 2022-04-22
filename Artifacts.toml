@@ -1,0 +1,119 @@
+[[AWSCRT]]
+arch = "aarch64"
+git-tree-sha1 = "02fd3df77121f32ec977a5880a329f9406ae4865"
+os = "macos"
+
+    [[AWSCRT.download]]
+    sha256 = "4b9dd5b674a2f8f3cbc933cdc71bf8c79b5b4dab34c35a93c3f92e8f605d45e9"
+    url = "https://github.com/JuliaBinaryWrappers/AWSCRT_jll.jl/releases/download/AWSCRT-v0.1.0+0/AWSCRT.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[AWSCRT]]
+arch = "aarch64"
+git-tree-sha1 = "17ab9da5b3d5be30228ea49328bd074c8b5bb908"
+libc = "glibc"
+os = "linux"
+
+    [[AWSCRT.download]]
+    sha256 = "4b1f1d45152e1e951486933490a0638d194ea8af43c194c65b3a39ffbd84ad99"
+    url = "https://github.com/JuliaBinaryWrappers/AWSCRT_jll.jl/releases/download/AWSCRT-v0.1.0+0/AWSCRT.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[AWSCRT]]
+arch = "aarch64"
+git-tree-sha1 = "ce5346583914760cdf789212fbb48a3b30886929"
+libc = "musl"
+os = "linux"
+
+    [[AWSCRT.download]]
+    sha256 = "3b35c6a4a08b5f219f54f8fddf4bdd5f4fcde66cdb963e606222b1a8cd756b3b"
+    url = "https://github.com/JuliaBinaryWrappers/AWSCRT_jll.jl/releases/download/AWSCRT-v0.1.0+0/AWSCRT.v0.1.0.aarch64-linux-musl.tar.gz"
+[[AWSCRT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "60119396f6633fb4ce8b31d3acb9acb51a83b3a2"
+libc = "glibc"
+os = "linux"
+
+    [[AWSCRT.download]]
+    sha256 = "4ed58b517d153da34eeac1b90b0a10366758c3e5a9c4ca451d8da3a0755dfe87"
+    url = "https://github.com/JuliaBinaryWrappers/AWSCRT_jll.jl/releases/download/AWSCRT-v0.1.0+0/AWSCRT.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[AWSCRT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3dd4a4d7eb8058c57e7c4550fc449a5be792b461"
+libc = "musl"
+os = "linux"
+
+    [[AWSCRT.download]]
+    sha256 = "11997364b1e140cb82e1ed3ea221b615e67c9b5f31362eff37b06e2d70d1e313"
+    url = "https://github.com/JuliaBinaryWrappers/AWSCRT_jll.jl/releases/download/AWSCRT-v0.1.0+0/AWSCRT.v0.1.0.armv6l-linux-musleabihf.tar.gz"
+[[AWSCRT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d74e80387f65ce9ba9b1b50c83375e8f116b2a5d"
+libc = "glibc"
+os = "linux"
+
+    [[AWSCRT.download]]
+    sha256 = "9f39679f9918bae07ea0fcdf0920e19a388469d68341dfb6b733452502839d34"
+    url = "https://github.com/JuliaBinaryWrappers/AWSCRT_jll.jl/releases/download/AWSCRT-v0.1.0+0/AWSCRT.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[AWSCRT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5220ffc24285cd8a825bcf9e2e11380bea7506da"
+libc = "musl"
+os = "linux"
+
+    [[AWSCRT.download]]
+    sha256 = "e39103d49b779a23e233be5975caf7dd9816434f67c8951fc259b995b9d92433"
+    url = "https://github.com/JuliaBinaryWrappers/AWSCRT_jll.jl/releases/download/AWSCRT-v0.1.0+0/AWSCRT.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[AWSCRT]]
+arch = "i686"
+git-tree-sha1 = "d559518c8b0874dc29fcce1a23d2d4b3edb39ae4"
+libc = "glibc"
+os = "linux"
+
+    [[AWSCRT.download]]
+    sha256 = "a8802f953c43574ef5d625d4ca99960fd2cc811a207c9d272c806c79a67ebcfc"
+    url = "https://github.com/JuliaBinaryWrappers/AWSCRT_jll.jl/releases/download/AWSCRT-v0.1.0+0/AWSCRT.v0.1.0.i686-linux-gnu.tar.gz"
+[[AWSCRT]]
+arch = "i686"
+git-tree-sha1 = "15068aea2fdc576f0d031a53e730c45c08197b57"
+libc = "musl"
+os = "linux"
+
+    [[AWSCRT.download]]
+    sha256 = "3c8dfec6587d6ec885ba0e8ebf888cdc085ee9259af426e1cc92454ec9759d4a"
+    url = "https://github.com/JuliaBinaryWrappers/AWSCRT_jll.jl/releases/download/AWSCRT-v0.1.0+0/AWSCRT.v0.1.0.i686-linux-musl.tar.gz"
+[[AWSCRT]]
+arch = "powerpc64le"
+git-tree-sha1 = "c37f0ff24d9ca70c7e2defd09275beaeaa1eece5"
+libc = "glibc"
+os = "linux"
+
+    [[AWSCRT.download]]
+    sha256 = "e199af049af0d0acbea36e5c6fae06d128f2e9704bdd2cc1e19e9f1c89baa409"
+    url = "https://github.com/JuliaBinaryWrappers/AWSCRT_jll.jl/releases/download/AWSCRT-v0.1.0+0/AWSCRT.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[AWSCRT]]
+arch = "x86_64"
+git-tree-sha1 = "ca96bf5d78c5a58e6ee50b9ec046822ef3cafb46"
+os = "macos"
+
+    [[AWSCRT.download]]
+    sha256 = "5007917e7e387f3eb16e17529d1d9ce713e75516600a24e9d5750858e6dff4e1"
+    url = "https://github.com/JuliaBinaryWrappers/AWSCRT_jll.jl/releases/download/AWSCRT-v0.1.0+0/AWSCRT.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[AWSCRT]]
+arch = "x86_64"
+git-tree-sha1 = "ed5ee68adc72b454365e1d0ea353a433e7891986"
+libc = "glibc"
+os = "linux"
+
+    [[AWSCRT.download]]
+    sha256 = "2e36a888196f9596381001f8bd2fbc6645e2f9ede0c208f0b3b5c737c7682ce4"
+    url = "https://github.com/JuliaBinaryWrappers/AWSCRT_jll.jl/releases/download/AWSCRT-v0.1.0+0/AWSCRT.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[AWSCRT]]
+arch = "x86_64"
+git-tree-sha1 = "391b4537d2eadd5ada9279684c9b1045e0e5ac64"
+libc = "musl"
+os = "linux"
+
+    [[AWSCRT.download]]
+    sha256 = "0486dad6f28657651102b6d8bd7b37c7de6bd2cd28b2895b5aa179923befb20e"
+    url = "https://github.com/JuliaBinaryWrappers/AWSCRT_jll.jl/releases/download/AWSCRT-v0.1.0+0/AWSCRT.v0.1.0.x86_64-linux-musl.tar.gz"
